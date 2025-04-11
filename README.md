@@ -2,7 +2,7 @@
 
 A modern web application for tracking and managing financial transactions. Built with Next.js and designed with a clean, mobile-first approach.
 
-![Wallet App Screenshot](public/screenshot.png)
+![Deploy](https://wallet-app-kappa-nine.vercel.app/)
 
 ## Features
 
